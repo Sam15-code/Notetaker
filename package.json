@@ -1,0 +1,27 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "Express full stack app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam15-code/Notetaker.git"
+  },
+  "keywords": [
+    "Express",
+    "json",
+    "file"
+  ],
+  "author": "Ibtissam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam15-code/Notetaker/issues"
+  },
+  "homepage": "https://github.com/Sam15-code/Notetaker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
