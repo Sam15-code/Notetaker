@@ -1,9 +1,6 @@
 # Notetaker
 
 This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. This application will also be deployed to Heroku.
-
-* [Installation](#installation)
-* [Usage](#usage)
   
 ## User Story:
 AS A small business owner
@@ -27,5 +24,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Screenshots:
 The following images show the web application's appearance and functionality:
-* [Screenshot](public/assets/Screenshot%202023-03-06%20at%206.11.23%20PM.png)
-* [Screenshot](public/assets/Screenshot%202023-03-06%20at%206.12.22%20PM.png)
+* [Screenshot](./public/assets/Screenshot%202023-03-06%20at%2010.06.24%20PM.png)
+
+* [Screenshot](public/assets/Screenshot%202023-03-06%20at%2010.08.34%20PM.png)
