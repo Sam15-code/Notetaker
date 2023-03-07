@@ -1,5 +1,5 @@
 const app = require("express").Router()
-const path =  require('path')
+const path = require('path')
 
 
 app.get("/notes",function(req,res){
