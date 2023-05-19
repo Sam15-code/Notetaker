@@ -24,6 +24,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Screenshots:
 The following images show the web application's appearance and functionality:
-* [Screenshot](./public/assets/Screenshot%202023-03-06%20at%2010.06.24%20PM.png)
+* [Screenshot](./public/image/Screenshot%202023-03-06%20at%2010.06.24%20PM.png)
 
-* [Screenshot](public/assets/Screenshot%202023-03-06%20at%2010.08.34%20PM.png)
+* [Screenshot](./public/image/Screenshot%202023-03-06%20at%2010.08.34%20PM.png)
